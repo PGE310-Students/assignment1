@@ -1,6 +1,10 @@
 # Assignment 1
 
-The aim of this assignment is to get familiarized with git and basic Unix commands.
+The aim of this assignment is to get familiarized with git and basic Unix commands.  I've recorded a YouTube video that walks you through this process for the this first assignment.  The assignment submission process is the same for all assignments so you might find it to be a useful reference in the future as well:
+
+https://youtu.be/88zX_XOJvNc
+
+It should be obvious, but substitute "PGE310" anywhere you see "PGE383" in the video.
 
 ## Instructions
 
